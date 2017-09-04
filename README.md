@@ -1,5 +1,5 @@
 # UtilidadesMatlab
-Cosas útiles (funciones, scripts) para Matlab
+Cosas útiles (funciones, scripts) para Matlab.
 Se van agregando con el tiempo
 
 ## Listado
